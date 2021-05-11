@@ -1,5 +1,6 @@
 {
   "name": "pokemon-app",
+  "author": "Danica Dombek",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
